@@ -1,0 +1,452 @@
+{
+    "id": "1",
+    "name": "Projects",
+    "type": "folder",
+    "access": true,
+    "children": [
+        {
+            "id": "2",
+            "name": "React",
+            "type": "folder",
+            "project": "React",
+            "access": true,
+            "children": [
+                {
+                    "id": "3",
+                    "name": "components",
+                    "type": "folder",
+                    "project": "React",
+                    "access": true,
+                    "children": [
+                        {
+                            "id": "4",
+                            "name": "_shared",
+                            "type": "folder",
+                            "project": "React",
+                            "access": true,
+                            "children": [
+                                {
+                                    "id": "5",
+                                    "name": "TreeView",
+                                    "type": "folder",
+                                    "project": "React",
+                                    "access": true,
+                                    "children": [
+                                        {
+                                            "id": "6",
+                                            "name": "TreeView.js",
+                                            "type": "file",
+                                            "project": "React",
+                                            "access": true,
+                                            "format": "js"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "7",
+                                    "name": "TreeViewItem",
+                                    "type": "folder",
+                                    "project": "React",
+                                    "children": [
+                                        {
+                                            "id": "8",
+                                            "name": "TreeViewItem.js",
+                                            "type": "file",
+                                            "project": "React",
+                                            "format": "js"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "9",
+                    "name": "context",
+                    "type": "folder",
+                    "project": "React",
+                    "access": true,
+                    "children": [
+                        {
+                            "id": "10",
+                            "name": "TreeContext.js",
+                            "type": "file",
+                            "project": "React",
+                            "format": "js",
+                            "access": true
+                        }
+                    ]
+                },
+                {
+                    "id": "11",
+                    "name": "hooks",
+                    "type": "folder",
+                    "project": "React",
+                    "access": true,
+                    "children": [
+                        {
+                            "id": "12",
+                            "name": "useToggle.js",
+                            "type": "file",
+                            "project": "React",
+                            "format": "js",
+                            "access": true
+                        },
+                        {
+                            "id": "13",
+                            "name": "useSwitch.js",
+                            "type": "file",
+                            "project": "React",
+                            "format": "js",
+                            "access": true
+                        },
+                        {
+                            "id": "14",
+                            "name": "useSearch.js",
+                            "type": "file",
+                            "project": "React",
+                            "format": "js",
+                            "access": true
+                        }
+                    ]
+                },
+                {
+                    "id": "15",
+                    "name": "styles",
+                    "type": "folder",
+                    "project": "React",
+                    "access": true,
+                    "children": [
+                        {
+                            "id": "16",
+                            "name": "index.scss",
+                            "type": "file",
+                            "project": "React",
+                            "format": "scss",
+                            "access": true
+                        },
+                        {
+                            "id": "17",
+                            "name": "Button.scss",
+                            "type": "file",
+                            "project": "React",
+                            "format": "scss",
+                            "access": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "name": "Vue",
+            "type": "folder",
+            "project": "Vue",
+            "access": true,
+            "children": [
+                {
+                    "id": "19",
+                    "name": "templates",
+                    "type": "folder",
+                    "project": "Vue",
+                    "access": true,
+                    "children": [
+                        {
+                            "id": "20",
+                            "name": "Form",
+                            "type": "folder",
+                            "project": "Vue",
+                            "access": true,
+                            "children": [
+                                {
+                                    "id": "21",
+                                    "name": "Form.vue",
+                                    "type": "file",
+                                    "project": "Vue",
+                                    "format": "vue",
+                                    "access": true
+                                }
+                            ]
+                        },
+                        {
+                            "id": "22",
+                            "name": "Container",
+                            "type": "folder",
+                            "project": "Vue",
+                            "access": true
+                        }
+                    ]
+                },
+                {
+                    "id": "24",
+                    "name": "types",
+                    "type": "folder",
+                    "project": "Vue",
+                    "access": true,
+                    "children": [
+                        {
+                            "id": "25",
+                            "name": "FetchedData",
+                            "type": "folder",
+                            "project": "Vue",
+                            "access": true,
+                            "children": [
+                                {
+                                    "id": "26",
+                                    "name": "FetchedData.ts",
+                                    "type": "file",
+                                    "project": "Vue",
+                                    "format": "ts",
+                                    "access": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "27",
+                    "name": "api",
+                    "type": "folder",
+                    "project": "Vue",
+                    "access": false,
+                    "children": [
+                        {
+                            "id": "28",
+                            "name": "index.ts",
+                            "type": "file",
+                            "project": "Vue",
+                            "format": "ts",
+                            "access": false
+                        }
+                    ]
+                },
+                {
+                    "id": "29",
+                    "name": "store",
+                    "type": "folder",
+                    "project": "Vue",
+                    "access": true,
+                    "children": [
+                        {
+                            "id": "30",
+                            "name": "index.ts",
+                            "type": "file",
+                            "project": "Vue",
+                            "format": "ts",
+                            "access": true
+                        },
+                        {
+                            "id": "31",
+                            "name": "actions.ts",
+                            "type": "file",
+                            "project": "Vue",
+                            "format": "ts",
+                            "access": true
+                        },
+                        {
+                            "id": "32",
+                            "name": "mutations.ts",
+                            "type": "file",
+                            "project": "Vue",
+                            "format": "ts",
+                            "access": true
+                        },
+                        {
+                            "id": "33",
+                            "name": "modules",
+                            "type": "folder",
+                            "project": "Vue",
+                            "access": true,
+                            "children": [
+                                {
+                                    "id": "34",
+                                    "name": "cart.ts",
+                                    "type": "file",
+                                    "project": "Vue",
+                                    "format": "ts",
+                                    "access": true
+                                },
+                                {
+                                    "id": "35",
+                                    "name": "products.ts",
+                                    "type": "file",
+                                    "project": "Vue",
+                                    "format": "ts",
+                                    "access": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "36",
+            "name": "Angular",
+            "type": "folder",
+            "project": "Angular",
+            "access": true,
+            "children": [
+                {
+                    "id": "37",
+                    "name": "core",
+                    "type": "folder",
+                    "project": "Angular",
+                    "access": true,
+                    "children": [
+                        {
+                            "id": "38",
+                            "name": "components",
+                            "type": "folder",
+                            "project": "Angular",
+                            "access": true,
+                            "children": [
+                                {
+                                    "id": "39",
+                                    "name": "header",
+                                    "type": "folder",
+                                    "project": "Angular",
+                                    "access": true,
+                                    "children": [
+                                        {
+                                            "id": "40",
+                                            "name": "header.component.ts",
+                                            "type": "file",
+                                            "project": "Angular",
+                                            "format": "ts",
+                                            "access": true
+                                        },
+                                        {
+                                            "id": "41",
+                                            "name": "header.component.html",
+                                            "type": "file",
+                                            "project": "Angular",
+                                            "format": "html",
+                                            "access": true
+                                        },
+                                        {
+                                            "id": "42",
+                                            "name": "header.component.scss",
+                                            "type": "file",
+                                            "project": "Angular",
+                                            "format": "scss",
+                                            "access": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "43",
+                                    "name": "footer",
+                                    "type": "folder",
+                                    "children": [
+                                        {
+                                            "id": "44",
+                                            "name": "footer.component.ts",
+                                            "type": "file",
+                                            "format": "ts"
+                                        },
+                                        {
+                                            "id": "45",
+                                            "name": "footer.component.html",
+                                            "type": "file",
+                                            "format": "html"
+                                        },
+                                        {
+                                            "id": "46",
+                                            "name": "footer.component.scss",
+                                            "type": "file",
+                                            "format": "scss"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "47",
+                            "name": "services",
+                            "type": "folder",
+                            "project": "Angular",
+                            "access": true,
+                            "children": [
+                                {
+                                    "id": "48",
+                                    "name": "auth.service.ts",
+                                    "type": "file",
+                                    "project": "Angular",
+                                    "format": "ts",
+                                    "access": true
+                                },
+                                {
+                                    "id": "49",
+                                    "name": "login.service.ts",
+                                    "type": "file",
+                                    "project": "Angular",
+                                    "format": "ts",
+                                    "access": true
+                                },
+                                {
+                                    "id": "50",
+                                    "name": "exception.service.ts",
+                                    "type": "file",
+                                    "project": "Angular",
+                                    "format": "ts",
+                                    "access": true
+                                }
+                            ]
+                        },
+                        {
+                            "id": "50",
+                            "name": "interceptors",
+                            "type": "folder",
+                            "project": "Angular",
+                            "access": false,
+                            "children": [
+                                {
+                                    "id": "51",
+                                    "name": "auth.interceptor.ts",
+                                    "type": "file",
+                                    "project": "Angular",
+                                    "format": "ts",
+                                    "access": false
+                                }
+                            ]
+                        },
+                        {
+                            "id": "52",
+                            "name": "guards",
+                            "type": "folder",
+                            "project": "Angular",
+                            "access": true,
+                            "children": [
+                                {
+                                    "id": "53",
+                                    "name": "auth.guard.ts",
+                                    "type": "file",
+                                    "project": "Angular",
+                                    "format": "ts",
+                                    "access": true
+                                }
+                            ]
+                        },
+                        {
+                            "id": "54",
+                            "name": "api",
+                            "type": "folder",
+                            "project": "Angular",
+                            "access": true
+                        },
+                        {
+                            "id": "55",
+                            "name": "core.module.ts",
+                            "type": "file",
+                            "project": "Angular",
+                            "format": "ts",
+                            "access": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

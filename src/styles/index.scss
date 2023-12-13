@@ -1,0 +1,59 @@
+@use "src/styles/variables";
+@use "src/styles/mixins";
+
+body {
+  font-family: variables.$ff-main;
+  font-size: variables.$fz-sm;
+  margin: 10px;
+}
+
+input {
+  padding: 10px;
+  font-size: variables.$fz-sm;
+}
+
+.tree {
+  &-view {
+    @include mixins.reset-list;
+
+    &-sidebar {
+      max-width: 40%;
+    }
+  }
+
+  &-form-container {
+    width: 50%;
+  }
+
+  &-buttons-container {
+    @include mixins.justify-between;
+    margin-top: 10px;
+  }
+
+  &-item {
+    margin: 10px 0;
+    padding-left: 20px;
+
+    &-container {
+      @include mixins.align-center;
+    }
+  }
+
+  &-locked-item {
+    width: 100%;
+    @include mixins.flex-box(flex-end, center);
+    margin-right: 10px;
+  }
+}
+
+.toggle {
+  &-icon {
+    @include mixins.flex-box(center, center);
+    margin: 0 10px 0 5px;
+    @include mixins.c-pointer;
+
+    &:focus {
+      outline: 2px solid variables.$light-blue;
+    }
+  }
+}

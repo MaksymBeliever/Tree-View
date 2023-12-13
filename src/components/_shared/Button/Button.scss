@@ -1,0 +1,16 @@
+@use "src/styles/variables";
+@use "src/styles/mixins";
+
+.button {
+  @include mixins.flex-box(center, center);
+  background-color: variables.$light-blue;
+  color: variables.$white;
+  border-radius: variables.$rounded;
+  border: none;
+  @include mixins.c-pointer;
+  transition: background-color .3s;
+
+  &:hover {
+    background-color: variables.$blue;
+  }
+}

@@ -1,0 +1,13 @@
+@use "src/styles/variables";
+
+.input {
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: variables.$rounded;
+  border: variables.$sm-width solid variables.$light-blue;
+  outline: none;
+
+  &:focus {
+    border: variables.$sm-width solid variables.$black;
+  }
+}

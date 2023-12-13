@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Tree-View/static/css/main.741a4a77.css",
+    "main.js": "/Tree-View/static/js/main.2bd9c882.js",
+    "static/media/sass.svg": "/Tree-View/static/media/sass.903cef0c9879296f452e2bd0364f58e9.svg",
+    "static/media/typescript.svg": "/Tree-View/static/media/typescript.1bd166c69617209ba0e2764474b58b1c.svg",
+    "static/media/javascript.svg": "/Tree-View/static/media/javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "index.html": "/Tree-View/index.html",
+    "static/media/html.svg": "/Tree-View/static/media/html.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "static/media/vue.svg": "/Tree-View/static/media/vue.794e612aa9ab0124da8efae55eef549a.svg",
+    "main.741a4a77.css.map": "/Tree-View/static/css/main.741a4a77.css.map",
+    "main.2bd9c882.js.map": "/Tree-View/static/js/main.2bd9c882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.741a4a77.css",
+    "static/js/main.2bd9c882.js"
+  ]
+}
